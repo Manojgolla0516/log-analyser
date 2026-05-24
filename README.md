@@ -158,22 +158,22 @@ or brute force attempts against web admin panels.
 
 ---
 
-### Screenshots
+### GoAccess Dashboard Screenshots
 
 **Overall Statistics**
-![Dashboard](screenshots/1779612031865_Live_report_image.png)
+![Dashboard](screenshots/Live%20report%20image.png)
 
 **Unique Visitors and Requested URLs**
-![Visitors](screenshots/1779612031866_Live_report_image1.png)
+![Visitors](screenshots/Live%20report%20image1.png)
 
 **Static Requests and 404 Errors**
-![Static and 404](screenshots/1779612031866_Live_report_image2.png)
+![Static and 404](screenshots/Live%20report%20image2.png)
 
 **Visitor Hostnames and Operating Systems**
-![Hostnames and OS](screenshots/1779612031867_Live_report_image3.png)
+![Hostnames and OS](screenshots/Live%20report%20image3.png)
 
 **Browsers and Time Distribution**
-![Browsers](screenshots/1779612031864_Live_report_image4.png)
+![Browsers](screenshots/Live%20report%20image4.png)
 
 ### Screenshot
 ![GoAccess Report](screenshots/goaccess.png)
