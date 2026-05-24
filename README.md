@@ -151,6 +151,9 @@ which return errors. Requests to `/admin`, `/phpmyadmin`, and `/login`
 from unknown IPs are red flags — they indicate automated scanning
 or brute force attempts against web admin panels.
 
+### Live Report
+[View GoAccess Report](https://Manojgolla0516.github.io/log-analyser/goaccess_report.html)
+
 ### Screenshot
 ![GoAccess Report](screenshots/goaccess.png)
 
