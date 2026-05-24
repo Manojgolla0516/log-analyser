@@ -1,0 +1,6 @@
+2026-05-20T12:21:45.590127+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/grep 'Failed password' /var/log/auth.log
+2026-05-20T12:22:08.721852+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/grep 'Failed password' /var/log/auth.log
+2026-05-20T12:24:31.322848+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/grep -a 'Failed password' /var/log/auth.log
+2026-05-20T12:27:29.881985+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/grep -a 'Failed password' /var/log/auth.log
+2026-05-20T12:28:12.975133+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/grep -a 'Failed password' /var/log/auth.log
+2026-05-20T12:28:12.999967+05:30 kali sudo:     kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/grep -a 'Invalid user' /var/log/auth.log
