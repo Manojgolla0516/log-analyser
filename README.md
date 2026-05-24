@@ -152,7 +152,30 @@ from unknown IPs are red flags — they indicate automated scanning
 or brute force attempts against web admin panels.
 
 ### Live Report
-[View GoAccess Report](https://Manojgolla0516.github.io/log-analyser/goaccess_report.html)
+## 🌐 Live Report
+
+> **[👉 Click here to view the full interactive GoAccess Report](https://Manojgolla0516.github.io/log-analyser/goaccess_report.html)**
+
+---
+
+### Screenshots
+
+### GoAccess Dashboard Screenshots
+
+**Overall Statistics**
+![Dashboard](screenshots/Live_report_image.png)
+
+**Unique Visitors and Requested URLs**
+![Visitors](screenshots/Live_report_image1.png)
+
+**Static Requests and 404 Errors**
+![Static and 404](screenshots/Live_report_image2.png)
+
+**Visitor Hostnames and Operating Systems**
+![Hostnames and OS](screenshots/Live_report_image3.png)
+
+**Browsers and Time Distribution**
+![Browsers](screenshots/Live_report_image4.png)
 
 ### Screenshot
 ![GoAccess Report](screenshots/goaccess.png)
